@@ -1,2 +1,3 @@
 # Index page
-##im typing in branch in my computer
+i have resolved in linux branch
+i update in github branch
