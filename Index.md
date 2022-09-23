@@ -1,2 +1,3 @@
 # Index page
-## I am updating in github
+i have resolved in linux branch
+i update in github branch
